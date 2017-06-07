@@ -24,9 +24,6 @@ navigation:
   - name: About
     id: a22ce2c5-adfe-40f3-8005-f180b751127e
     type: content
-  - name: Photography
-    id: 9fb4bafe-a409-4f16-bcf7-8403b7c53f0d
-    type: content
 title: mylittlelife
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
