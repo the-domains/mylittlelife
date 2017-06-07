@@ -4,17 +4,19 @@ description: >-
   Born in a home blessed with immense knowledge and artistic fervour Hemang grew
   up nurturing his many talents such as painting, designing, photography among
   many others.
-dateModified: '2017-05-27T13:42:22.353Z'
-datePublished: '2017-05-27T13:43:30.273Z'
+dateModified: '2017-05-27T13:43:46.831Z'
+datePublished: '2017-05-27T13:43:47.698Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-05-27T13:43:30.273Z'
 sourcePath: >-
   _posts/2017-05-27-born-in-a-home-blessed-with-immense-knowledge-and-artistic-f.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-05-27T13:43:30.273Z'
+url: born-in-a-home-blessed-with-immense-knowledge-and-artistic-f/index.html
+_type: Article
 
 ---
 Born in a home blessed with immense knowledge and artistic fervour Hemang grew up nurturing his many talents such as painting, designing, photography among many others.
