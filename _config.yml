@@ -21,6 +21,11 @@ color:
     - '#333333'
 content: []
 title: mylittlelife
-description: ''
-purpose: []
+description: >-
+  Photographing every day since 2006. Available for prints & commissions
+  world-wide.
+purpose:
+  - type: contact
+    url: 'mailto:hemang11.77@gmail.com'
+    label: Contact me
 github: true
