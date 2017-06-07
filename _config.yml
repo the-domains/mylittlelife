@@ -1,3 +1,12 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: mylittlelife
+layout_spectrum: 0.759525184519589
 typography_spectrum: 0.3444388145580888
 color:
   brandStrength: 0.4016771337483078
@@ -10,51 +19,11 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-github: true
-layout_spectrum: 0.759525184519589
-name: mylittlelife
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-navigation:
-  - name: About
-    id: a22ce2c5-adfe-40f3-8005-f180b751127e
-    type: content
+content: []
 title: mylittlelife
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3697e96d-6e78-4ee8-b9e0-1dd72b689321.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3697e96d-6e78-4ee8-b9e0-1dd72b689321.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose:
-  - type: internal
-    label: About
-    item: a22ce2c5-adfe-40f3-8005-f180b751127e
-  - type: email
-    label: Contact
+  - type: contact
     url: 'mailto:hemang11.77@gmail.com'
+    label: Contact me
+github: true
