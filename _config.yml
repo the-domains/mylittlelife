@@ -20,6 +20,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    id: a22ce2c5-adfe-40f3-8005-f180b751127e
+    type: content
+  - name: Photography
+    id: 4ed1d8bf-1b3c-409b-bac0-ea86912cfe97
+    type: content
 title: mylittlelife
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -47,10 +54,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
-purpose:
-  - type: internal
-    label: About
-    item: a22ce2c5-adfe-40f3-8005-f180b751127e
-  - type: email
-    label: Contact
-    url: 'mailto:hemang11.77@gmail.com'
+purpose: []
