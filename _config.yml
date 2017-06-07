@@ -21,11 +21,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Photography
-    id: 37b6ff1a-2457-4869-bc6e-8eabc8a2baa0
-    type: content
   - name: About
     id: a22ce2c5-adfe-40f3-8005-f180b751127e
+    type: content
+  - name: Photography
+    id: 37b6ff1a-2457-4869-bc6e-8eabc8a2baa0
     type: content
 title: mylittlelife
 content:
