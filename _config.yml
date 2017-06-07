@@ -21,10 +21,34 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Photography
-    id: 37b6ff1a-2457-4869-bc6e-8eabc8a2baa0
+  - name: About
+    id: a22ce2c5-adfe-40f3-8005-f180b751127e
     type: content
 title: mylittlelife
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3697e96d-6e78-4ee8-b9e0-1dd72b689321.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3697e96d-6e78-4ee8-b9e0-1dd72b689321.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose: []
